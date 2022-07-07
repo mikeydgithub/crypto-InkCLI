@@ -34,15 +34,15 @@
   
   ## Story
 
-  As a crypto owner
+   	As a crypto owner
   
-  I can check the current prices of my cypto currencies
+  	I can check the current prices of my cypto currencies
   
-  And the price changes in the last 24 hours
+  	And the price changes in the last 24 hours
   
-  When you type react-ink-cli
+  	When you type react-ink-cli
 	
-	Then the coin, price, 24 hour change, and all time high appear
+  	Then the coin, price, 24 hour change, and all time high appear
 
   ## Description
 
