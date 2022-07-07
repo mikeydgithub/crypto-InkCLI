@@ -1,5 +1,3 @@
-# react-ink-cli
-
 ## Title
 
 # React Ink CLI
