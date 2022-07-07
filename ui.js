@@ -1,3 +1,5 @@
+// ui.js
+
 const React = require('react');
 const Gradient = require('ink-gradient');
 const BigText = require('ink-big-text')
