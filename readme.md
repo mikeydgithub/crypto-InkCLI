@@ -7,7 +7,7 @@
   1. [Title](#Title)
   2. [Usage](#Usage)
   3. [Installation](#Installtion)
-  4. [Packages](#PackagesUsed)
+  4. [Packages](#Packages)
   5. [Story](#Story)
   6. [Description](#Description)
 
@@ -22,7 +22,7 @@
 	$ npm install --global react-ink-cli
 	```
 	
-## PackagesUsed	
+## Packages
   
   * Node.JS
   * React 
