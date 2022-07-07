@@ -7,8 +7,9 @@
   1. [Title](#Title)
   2. [Usage](#Usage)
   3. [Installation](#Installtion)
-  4. [Story](#Story)
-  5. [Description](#Description)
+  4. [Packages](#PackagesUsed)
+  5. [Story](#Story)
+  6. [Description](#Description)
 
 
   ## Usage
@@ -20,6 +21,8 @@
 	```bash
 	$ npm install --global react-ink-cli
 	```
+	
+## PackagesUsed	
   
   * Node.JS
   * React 
